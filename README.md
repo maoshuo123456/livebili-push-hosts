@@ -191,11 +191,6 @@ nslookup live-push.bilivideo.com
 - 🔧 **代码改进**：提交PR改进代码
 - 📚 **文档完善**：帮助完善使用文档
 
-## 📞 联系方式
-
-- 📧 **Issue反馈**：[GitHub Issues](https://github.com/你的用户名/bilibili-stream-optimizer/issues)
-- 💬 **功能讨论**：[GitHub Discussions](https://github.com/你的用户名/bilibili-stream-optimizer/discussions)
-
 ## 🙏 致谢
 
 - [XIU2/CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) - 提供了优秀的网络测速工具
